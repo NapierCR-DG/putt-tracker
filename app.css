@@ -51,7 +51,7 @@ body {
   margin-bottom: 20px;
 }
 .app-header h1 { font-size: 18px; font-weight: 700; letter-spacing: -0.3px; }
-.app-header .logo-icon { font-size: 22px; margin-right: 8px; }
+.app-header .logo-icon { height: 28px; width: auto; margin-right: 8px; vertical-align: middle; }
 
 /* ===== Buttons ===== */
 button {

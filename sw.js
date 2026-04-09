@@ -1,4 +1,4 @@
-const CACHE_NAME = "putt-tracker-v1";
+const CACHE_NAME = "putt-tracker-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -6,6 +6,9 @@ const ASSETS = [
   "./app.js",
   "./data.js",
   "./manifest.json",
+  "./pt_disc_golf_logo_v4.svg",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png",
   "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
 ];
 

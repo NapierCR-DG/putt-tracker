@@ -50,7 +50,7 @@ function renderHome(app) {
 
   app.innerHTML = `
     <div class="app-header">
-      <span class="logo-icon">🥏</span>
+      <img class="logo-icon" src="pt_disc_golf_logo_v4.svg" alt="Putt Tracker" />
       <h1>Putt Tracker</h1>
     </div>
     <div class="fade-in">
@@ -112,7 +112,7 @@ function renderNewSession(app) {
 
   app.innerHTML = `
     <div class="app-header">
-      <span class="logo-icon">🥏</span>
+      <img class="logo-icon" src="pt_disc_golf_logo_v4.svg" alt="Putt Tracker" />
       <h1>Putt Tracker</h1>
     </div>
     <div class="fade-in">
@@ -193,7 +193,7 @@ function renderActiveSession(app) {
 
   app.innerHTML = `
     <div class="app-header">
-      <span class="logo-icon">🥏</span>
+      <img class="logo-icon" src="pt_disc_golf_logo_v4.svg" alt="Putt Tracker" />
       <h1>Putt Tracker</h1>
     </div>
     <div class="fade-in" id="sessionView">
@@ -307,7 +307,7 @@ function renderSessionSummary(app) {
 
   app.innerHTML = `
     <div class="app-header">
-      <span class="logo-icon">🥏</span>
+      <img class="logo-icon" src="pt_disc_golf_logo_v4.svg" alt="Putt Tracker" />
       <h1>Putt Tracker</h1>
     </div>
     <div class="fade-in">
@@ -391,7 +391,7 @@ function renderHistory(app) {
 
   app.innerHTML = `
     <div class="app-header">
-      <span class="logo-icon">🥏</span>
+      <img class="logo-icon" src="pt_disc_golf_logo_v4.svg" alt="Putt Tracker" />
       <h1>Putt Tracker</h1>
     </div>
     <div class="fade-in">
@@ -489,7 +489,7 @@ function renderSessionDetail(app, sessionId) {
 
   app.innerHTML = `
     <div class="app-header">
-      <span class="logo-icon">🥏</span>
+      <img class="logo-icon" src="pt_disc_golf_logo_v4.svg" alt="Putt Tracker" />
       <h1>Putt Tracker</h1>
     </div>
     <div class="fade-in">
